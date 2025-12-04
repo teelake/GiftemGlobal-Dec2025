@@ -1,8 +1,8 @@
 <?php
 class Database {
     private $host = "localhost";    // Database host
-    private $db_name = "giftemgl_db";  // Database name
-    private $username = "giftemgl_user";     // Database username
+    private $db_name = "giftemg1_db";  // Database name
+    private $username = "giftemg1_user";     // Database username
     private $password = "ZDl;Bg0s&cCf";         // Database password
     public $conn;
 
