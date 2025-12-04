@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Block specific folders (if needed)
+
+Disallow: /backend/
+

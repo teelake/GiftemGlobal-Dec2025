@@ -1,0 +1,1628 @@
+# Copyright (C) 2023 Iqonic Design
+# This file is distributed under the same license as the Enerzee Extensions plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Enerzee Extensions 1.5.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/enerzee-extensions\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-10-19T09:34:28+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: enerzee-extensions\n"
+
+#. Plugin Name of the plugin
+msgid "Enerzee Extensions"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://iqonic.design/"
+msgstr ""
+
+#. Description of the plugin
+msgid "enerzee plugin provides custom team post type, gallery post type with related functionality."
+msgstr ""
+
+#. Author of the plugin
+msgid "Iqonic Design"
+msgstr ""
+
+#: inc/elementor/icon/custom-icon.php:6
+msgid "Ionic Custom"
+msgstr ""
+
+#: inc/elementor/icon/custom-icon.php:18
+msgid "Typicons"
+msgstr ""
+
+#: inc/elementor/icon/custom-icon.php:30
+msgid "Flaticon"
+msgstr ""
+
+#: inc/elementor/init.php:40
+msgid "enerzee-extensions"
+msgstr ""
+
+#: inc/elementor/render/3d_hover_hox.php:59
+#: inc/elementor/render/fearute_circle.php:44
+#: inc/elementor/render/featurebox.php:52
+#: inc/elementor/render/featurebox.php:82
+#: inc/elementor/render/image_background_effect.php:69
+msgid "enerzee-image"
+msgstr ""
+
+#: inc/elementor/render/blog.php:101
+#: inc/elementor/render/blog.php:193
+#: inc/elementor/widget/3d_hover_hox.php:193
+#: inc/elementor/widget/advance_price.php:182
+#: inc/elementor/widget/button.php:106
+#: inc/elementor/widget/fancybox.php:128
+#: inc/elementor/widget/image_background_effect.php:109
+#: inc/elementor/widget/price.php:190
+msgid "Read More"
+msgstr ""
+
+#: inc/elementor/render/blog.php:160
+msgid "javascript:void(0)"
+msgstr ""
+
+#: inc/elementor/render/blog.php:223
+msgid "Previous page"
+msgstr ""
+
+#: inc/elementor/render/blog.php:224
+msgid "Next page"
+msgstr ""
+
+#: inc/elementor/render/fancybox.php:37
+msgid "fancybox-image"
+msgstr ""
+
+#: inc/elementor/render/image_overlay.php:40
+#: inc/elementor/render/image_overlay.php:49
+msgid "image"
+msgstr ""
+
+#: inc/elementor/render/portfolio.php:30
+msgid "All"
+msgstr ""
+
+#: inc/elementor/widget/3d_hover_hox.php:12
+msgid "enerzee_3d_hover_hox"
+msgstr ""
+
+#: inc/elementor/widget/3d_hover_hox.php:17
+msgid "3d Hover Box"
+msgstr ""
+
+#: inc/elementor/widget/3d_hover_hox.php:45
+msgid "3d_hover_hox"
+msgstr ""
+
+#: inc/elementor/widget/3d_hover_hox.php:52
+#: inc/elementor/widget/fancybox.php:52
+#: inc/elementor/widget/featurebox.php:65
+msgid "Infobox Title"
+msgstr ""
+
+#: inc/elementor/widget/3d_hover_hox.php:58
+#: inc/elementor/widget/fancybox.php:58
+#: inc/elementor/widget/featurebox.php:71
+msgid "Financial Planning"
+msgstr ""
+
+#: inc/elementor/widget/3d_hover_hox.php:65
+#: inc/elementor/widget/fancybox.php:65
+#: inc/elementor/widget/featurebox.php:78
+#: inc/elementor/widget/portfolio.php:84
+msgid "HTML Tag"
+msgstr ""
+
+#: inc/elementor/widget/3d_hover_hox.php:85
+#: inc/elementor/widget/advance_price.php:75
+#: inc/elementor/widget/advance_price.php:151
+#: inc/elementor/widget/fancybox.php:98
+#: inc/elementor/widget/featurebox.php:144
+#: inc/elementor/widget/image_background_effect.php:65
+#: inc/elementor/widget/price.php:111
+#: inc/elementor/widget/section_title.php:76
+msgid "Description"
+msgstr ""
+
+#: inc/elementor/widget/3d_hover_hox.php:90
+#: inc/elementor/widget/advance_price.php:80
+#: inc/elementor/widget/fancybox.php:103
+#: inc/elementor/widget/featurebox.php:149
+#: inc/elementor/widget/price.php:116
+#: inc/elementor/widget/section_title.php:81
+msgid "Enter your title"
+msgstr ""
+
+#: inc/elementor/widget/3d_hover_hox.php:91
+#: inc/elementor/widget/advance_price.php:81
+#: inc/elementor/widget/fancybox.php:104
+#: inc/elementor/widget/featurebox.php:150
+#: inc/elementor/widget/section_title.php:82
+msgid "Add Your Heading Text Here"
+msgstr ""
+
+#: inc/elementor/widget/3d_hover_hox.php:98
+#: inc/elementor/widget/featurebox.php:98
+#: inc/elementor/widget/tabs.php:64
+msgid "Select Image/Icon"
+msgstr ""
+
+#: inc/elementor/widget/3d_hover_hox.php:111
+#: inc/elementor/widget/contact.php:70
+#: inc/elementor/widget/contact.php:78
+#: inc/elementor/widget/counter.php:66
+#: inc/elementor/widget/fancybox.php:85
+#: inc/elementor/widget/faq.php:70
+#: inc/elementor/widget/featurebox.php:111
+#: inc/elementor/widget/image_background_effect.php:76
+#: inc/elementor/widget/list.php:83
+#: inc/elementor/widget/tabs.php:77
+msgid "Icon"
+msgstr ""
+
+#: inc/elementor/widget/3d_hover_hox.php:127
+#: inc/elementor/widget/contact.php:90
+#: inc/elementor/widget/featurebox.php:127
+#: inc/elementor/widget/image_overlay.php:66
+#: inc/elementor/widget/image_overlay.php:90
+#: inc/elementor/widget/tabs.php:92
+msgid "Choose Image"
+msgstr ""
+
+#: inc/elementor/widget/3d_hover_hox.php:144
+msgid "Background Image"
+msgstr ""
+
+#: inc/elementor/widget/3d_hover_hox.php:158
+msgid "background_hover_image"
+msgstr ""
+
+#: inc/elementor/widget/3d_hover_hox.php:172
+msgid "Flip From"
+msgstr ""
+
+#: inc/elementor/widget/3d_hover_hox.php:187
+#: inc/elementor/widget/advance_price.php:176
+#: inc/elementor/widget/button.php:100
+#: inc/elementor/widget/fancybox.php:122
+#: inc/elementor/widget/image_background_effect.php:103
+#: inc/elementor/widget/portfolio.php:127
+#: inc/elementor/widget/price.php:184
+msgid "Button Text"
+msgstr ""
+
+#: inc/elementor/widget/3d_hover_hox.php:200
+#: inc/elementor/widget/advance_price.php:189
+#: inc/elementor/widget/button.php:113
+#: inc/elementor/widget/fancybox.php:135
+#: inc/elementor/widget/image_background_effect.php:116
+#: inc/elementor/widget/price.php:197
+#: inc/elementor/widget/video_popup.php:56
+#: inc/elementor/widget/video_popup.php:78
+msgid "Link"
+msgstr ""
+
+#: inc/elementor/widget/3d_hover_hox.php:205
+#: inc/elementor/widget/advance_price.php:194
+#: inc/elementor/widget/button.php:118
+#: inc/elementor/widget/fancybox.php:140
+#: inc/elementor/widget/image_background_effect.php:121
+#: inc/elementor/widget/price.php:202
+msgid "https://your-link.com"
+msgstr ""
+
+#: inc/elementor/widget/3d_hover_hox.php:215
+msgid "Delay Time"
+msgstr ""
+
+#: inc/elementor/widget/3d_hover_hox.php:221
+msgid "0.6"
+msgstr ""
+
+#: inc/elementor/widget/3d_hover_hox.php:228
+#: inc/elementor/widget/advance_price.php:240
+#: inc/elementor/widget/blog.php:281
+#: inc/elementor/widget/button.php:128
+#: inc/elementor/widget/client.php:283
+#: inc/elementor/widget/contact.php:120
+#: inc/elementor/widget/counter.php:90
+#: inc/elementor/widget/fancybox.php:164
+#: inc/elementor/widget/faq.php:126
+#: inc/elementor/widget/featurebox.php:170
+#: inc/elementor/widget/image_background_effect.php:151
+#: inc/elementor/widget/list.php:126
+#: inc/elementor/widget/price.php:213
+#: inc/elementor/widget/section_title.php:89
+#: inc/elementor/widget/tabs.php:140
+#: inc/elementor/widget/testimonial.php:78
+#: inc/elementor/widget/video_popup.php:125
+msgid "Alignment"
+msgstr ""
+
+#: inc/elementor/widget/3d_hover_hox.php:232
+#: inc/elementor/widget/advance_price.php:91
+#: inc/elementor/widget/advance_price.php:244
+#: inc/elementor/widget/blog.php:285
+#: inc/elementor/widget/button.php:132
+#: inc/elementor/widget/client.php:287
+#: inc/elementor/widget/contact.php:124
+#: inc/elementor/widget/counter.php:94
+#: inc/elementor/widget/fancybox.php:168
+#: inc/elementor/widget/faq.php:130
+#: inc/elementor/widget/featurebox.php:174
+#: inc/elementor/widget/image_background_effect.php:155
+#: inc/elementor/widget/image_overlay.php:126
+#: inc/elementor/widget/list.php:130
+#: inc/elementor/widget/price.php:217
+#: inc/elementor/widget/section_title.php:93
+#: inc/elementor/widget/tabs.php:144
+#: inc/elementor/widget/testimonial.php:82
+#: inc/elementor/widget/video_popup.php:129
+msgid "Left"
+msgstr ""
+
+#: inc/elementor/widget/3d_hover_hox.php:236
+#: inc/elementor/widget/advance_price.php:95
+#: inc/elementor/widget/advance_price.php:248
+#: inc/elementor/widget/blog.php:289
+#: inc/elementor/widget/button.php:136
+#: inc/elementor/widget/client.php:291
+#: inc/elementor/widget/contact.php:128
+#: inc/elementor/widget/counter.php:98
+#: inc/elementor/widget/fancybox.php:172
+#: inc/elementor/widget/faq.php:134
+#: inc/elementor/widget/featurebox.php:178
+#: inc/elementor/widget/image_background_effect.php:159
+#: inc/elementor/widget/list.php:134
+#: inc/elementor/widget/price.php:221
+#: inc/elementor/widget/section_title.php:97
+#: inc/elementor/widget/tabs.php:148
+#: inc/elementor/widget/testimonial.php:86
+#: inc/elementor/widget/video_popup.php:133
+msgid "Center"
+msgstr ""
+
+#: inc/elementor/widget/3d_hover_hox.php:240
+#: inc/elementor/widget/advance_price.php:99
+#: inc/elementor/widget/advance_price.php:252
+#: inc/elementor/widget/blog.php:293
+#: inc/elementor/widget/button.php:140
+#: inc/elementor/widget/client.php:295
+#: inc/elementor/widget/contact.php:132
+#: inc/elementor/widget/counter.php:102
+#: inc/elementor/widget/fancybox.php:176
+#: inc/elementor/widget/faq.php:138
+#: inc/elementor/widget/featurebox.php:182
+#: inc/elementor/widget/image_background_effect.php:163
+#: inc/elementor/widget/image_overlay.php:131
+#: inc/elementor/widget/list.php:138
+#: inc/elementor/widget/price.php:225
+#: inc/elementor/widget/section_title.php:101
+#: inc/elementor/widget/tabs.php:152
+#: inc/elementor/widget/testimonial.php:90
+#: inc/elementor/widget/video_popup.php:137
+msgid "Right"
+msgstr ""
+
+#: inc/elementor/widget/3d_hover_hox.php:244
+#: inc/elementor/widget/advance_price.php:103
+#: inc/elementor/widget/advance_price.php:256
+#: inc/elementor/widget/blog.php:297
+#: inc/elementor/widget/button.php:144
+#: inc/elementor/widget/client.php:299
+#: inc/elementor/widget/contact.php:136
+#: inc/elementor/widget/counter.php:106
+#: inc/elementor/widget/fancybox.php:180
+#: inc/elementor/widget/faq.php:142
+#: inc/elementor/widget/featurebox.php:186
+#: inc/elementor/widget/image_background_effect.php:167
+#: inc/elementor/widget/list.php:142
+#: inc/elementor/widget/price.php:229
+#: inc/elementor/widget/section_title.php:105
+#: inc/elementor/widget/tabs.php:156
+msgid "Justified"
+msgstr ""
+
+#: inc/elementor/widget/3d_hover_hox.php:256
+#: inc/elementor/widget/button.php:156
+#: inc/elementor/widget/contact.php:53
+#: inc/elementor/widget/counter.php:53
+#: inc/elementor/widget/counter.php:118
+#: inc/elementor/widget/fancybox.php:192
+#: inc/elementor/widget/featurebox.php:213
+#: inc/elementor/widget/list.php:154
+#: inc/elementor/widget/price.php:82
+#: inc/elementor/widget/progressbar.php:55
+#: inc/elementor/widget/section_title.php:17
+#: inc/elementor/widget/section_title.php:117
+msgid "Title"
+msgstr ""
+
+#: inc/elementor/widget/3d_hover_hox.php:264
+#: inc/elementor/widget/counter.php:126
+#: inc/elementor/widget/fancybox.php:200
+#: inc/elementor/widget/featurebox.php:221
+#: inc/elementor/widget/list.php:162
+msgid "Icon Color"
+msgstr ""
+
+#: inc/elementor/widget/3d_hover_hox.php:279
+#: inc/elementor/widget/counter.php:138
+#: inc/elementor/widget/fancybox.php:212
+#: inc/elementor/widget/featurebox.php:236
+#: inc/elementor/widget/list.php:96
+#: inc/elementor/widget/list.php:174
+#: inc/elementor/widget/section_title.php:125
+msgid "Title Color"
+msgstr ""
+
+#: inc/elementor/widget/3d_hover_hox.php:292
+#: inc/elementor/widget/fancybox.php:224
+#: inc/elementor/widget/featurebox.php:248
+#: inc/elementor/widget/section_title.php:150
+msgid "Description Color"
+msgstr ""
+
+#: inc/elementor/widget/advance_price.php:12
+msgid "enerzee_advance_price"
+msgstr ""
+
+#: inc/elementor/widget/advance_price.php:17
+#: inc/elementor/widget/advance_price.php:45
+msgid "Advance Price"
+msgstr ""
+
+#: inc/elementor/widget/advance_price.php:51
+#: inc/elementor/widget/section_title.php:52
+msgid "Section Title"
+msgstr ""
+
+#: inc/elementor/widget/advance_price.php:63
+#: inc/elementor/widget/section_title.php:64
+msgid "Section Sub Title"
+msgstr ""
+
+#: inc/elementor/widget/advance_price.php:87
+msgid "Title Alignment"
+msgstr ""
+
+#: inc/elementor/widget/advance_price.php:114
+msgid "Time Period"
+msgstr ""
+
+#: inc/elementor/widget/advance_price.php:116
+#: inc/elementor/widget/advance_price.php:230
+msgid "Monthly"
+msgstr ""
+
+#: inc/elementor/widget/advance_price.php:117
+#: inc/elementor/widget/faq.php:86
+#: inc/elementor/widget/fearute_circle.php:79
+#: inc/elementor/widget/fearute_circle.php:80
+#: inc/elementor/widget/fearute_circle.php:90
+#: inc/elementor/widget/fearute_circle.php:91
+#: inc/elementor/widget/image_background_effect.php:56
+#: inc/elementor/widget/list.php:75
+#: inc/elementor/widget/list.php:76
+#: inc/elementor/widget/tabs.php:55
+#: inc/elementor/widget/tabs.php:56
+msgid "Tab Title"
+msgstr ""
+
+#: inc/elementor/widget/advance_price.php:124
+#: inc/elementor/widget/price.php:68
+msgid "Price"
+msgstr ""
+
+#: inc/elementor/widget/advance_price.php:130
+#: inc/elementor/widget/counter.php:81
+msgid "100"
+msgstr ""
+
+#: inc/elementor/widget/advance_price.php:138
+msgid "Label"
+msgstr ""
+
+#: inc/elementor/widget/advance_price.php:144
+msgid "Pro"
+msgstr ""
+
+#: inc/elementor/widget/advance_price.php:158
+msgid "Per Month"
+msgstr ""
+
+#: inc/elementor/widget/advance_price.php:165
+#: inc/elementor/widget/price.php:124
+msgid "Is Active?"
+msgstr ""
+
+#: inc/elementor/widget/advance_price.php:168
+#: inc/elementor/widget/featurebox.php:160
+#: inc/elementor/widget/portfolio.php:107
+#: inc/elementor/widget/portfolio.php:119
+#: inc/elementor/widget/price.php:127
+msgid "yes"
+msgstr ""
+
+#: inc/elementor/widget/advance_price.php:169
+#: inc/elementor/widget/featurebox.php:161
+#: inc/elementor/widget/portfolio.php:108
+#: inc/elementor/widget/portfolio.php:120
+#: inc/elementor/widget/price.php:128
+msgid "no"
+msgstr ""
+
+#: inc/elementor/widget/advance_price.php:204
+msgid "Currency"
+msgstr ""
+
+#: inc/elementor/widget/advance_price.php:205
+#: inc/elementor/widget/advance_price.php:206
+msgid "$"
+msgstr ""
+
+#: inc/elementor/widget/advance_price.php:215
+msgid "Service List"
+msgstr ""
+
+#: inc/elementor/widget/advance_price.php:216
+msgid "<ul><li>Service 1</li></ul>"
+msgstr ""
+
+#: inc/elementor/widget/advance_price.php:217
+#: inc/elementor/widget/faq.php:96
+#: inc/elementor/widget/image_background_effect.php:67
+#: inc/elementor/widget/tabs.php:110
+#: inc/elementor/widget/tabs.php:111
+msgid "Tab Content"
+msgstr ""
+
+#: inc/elementor/widget/advance_price.php:226
+msgid "Advance Price Items"
+msgstr ""
+
+#: inc/elementor/widget/blog.php:31
+msgid "enerzee_blog"
+msgstr ""
+
+#: inc/elementor/widget/blog.php:47
+msgid "Blog"
+msgstr ""
+
+#: inc/elementor/widget/blog.php:98
+msgid "Blog Post"
+msgstr ""
+
+#: inc/elementor/widget/blog.php:106
+msgid "Blog Style"
+msgstr ""
+
+#: inc/elementor/widget/blog.php:111
+msgid "Blog Slider"
+msgstr ""
+
+#: inc/elementor/widget/blog.php:112
+msgid "Blog 1 Columns"
+msgstr ""
+
+#: inc/elementor/widget/blog.php:113
+msgid "Blog 2 Columns"
+msgstr ""
+
+#: inc/elementor/widget/blog.php:114
+msgid "Blog 3 Columns"
+msgstr ""
+
+#: inc/elementor/widget/blog.php:122
+#: inc/elementor/widget/client.php:122
+#: inc/elementor/widget/team.php:72
+msgid "Desktop view"
+msgstr ""
+
+#: inc/elementor/widget/blog.php:138
+#: inc/elementor/widget/client.php:138
+#: inc/elementor/widget/team.php:88
+msgid "Laptop view"
+msgstr ""
+
+#: inc/elementor/widget/blog.php:154
+#: inc/elementor/widget/client.php:154
+#: inc/elementor/widget/team.php:104
+msgid "Tablet view"
+msgstr ""
+
+#: inc/elementor/widget/blog.php:170
+#: inc/elementor/widget/client.php:170
+#: inc/elementor/widget/team.php:120
+msgid "Mobile view"
+msgstr ""
+
+#: inc/elementor/widget/blog.php:186
+#: inc/elementor/widget/client.php:186
+#: inc/elementor/widget/team.php:152
+msgid "Autoplay"
+msgstr ""
+
+#: inc/elementor/widget/blog.php:190
+#: inc/elementor/widget/blog.php:207
+#: inc/elementor/widget/blog.php:224
+#: inc/elementor/widget/blog.php:241
+#: inc/elementor/widget/client.php:190
+#: inc/elementor/widget/client.php:207
+#: inc/elementor/widget/client.php:224
+#: inc/elementor/widget/client.php:241
+#: inc/elementor/widget/team.php:140
+#: inc/elementor/widget/team.php:156
+#: inc/elementor/widget/team.php:173
+#: inc/elementor/widget/team.php:190
+msgid "True"
+msgstr ""
+
+#: inc/elementor/widget/blog.php:191
+#: inc/elementor/widget/blog.php:208
+#: inc/elementor/widget/blog.php:225
+#: inc/elementor/widget/blog.php:242
+#: inc/elementor/widget/client.php:191
+#: inc/elementor/widget/client.php:208
+#: inc/elementor/widget/client.php:225
+#: inc/elementor/widget/client.php:242
+#: inc/elementor/widget/team.php:141
+#: inc/elementor/widget/team.php:157
+#: inc/elementor/widget/team.php:174
+#: inc/elementor/widget/team.php:191
+msgid "False"
+msgstr ""
+
+#: inc/elementor/widget/blog.php:203
+#: inc/elementor/widget/client.php:203
+#: inc/elementor/widget/team.php:136
+msgid "Loop"
+msgstr ""
+
+#: inc/elementor/widget/blog.php:220
+#: inc/elementor/widget/client.php:220
+#: inc/elementor/widget/team.php:169
+msgid "Dots"
+msgstr ""
+
+#: inc/elementor/widget/blog.php:237
+#: inc/elementor/widget/client.php:237
+#: inc/elementor/widget/team.php:186
+msgid "Arrow"
+msgstr ""
+
+#: inc/elementor/widget/blog.php:254
+#: inc/elementor/widget/client.php:254
+#: inc/elementor/widget/team.php:203
+msgid "Margin"
+msgstr ""
+
+#: inc/elementor/widget/blog.php:267
+#: inc/elementor/widget/client.php:269
+#: inc/elementor/widget/portfolio.php:140
+#: inc/elementor/widget/product-grid.php:144
+#: inc/elementor/widget/team.php:216
+#: inc/elementor/widget/testimonial.php:64
+msgid "Order By"
+msgstr ""
+
+#: inc/elementor/widget/blog.php:271
+#: inc/elementor/widget/client.php:273
+#: inc/elementor/widget/portfolio.php:144
+#: inc/elementor/widget/product-grid.php:148
+#: inc/elementor/widget/team.php:220
+#: inc/elementor/widget/testimonial.php:68
+msgid "Descending"
+msgstr ""
+
+#: inc/elementor/widget/blog.php:272
+#: inc/elementor/widget/client.php:274
+#: inc/elementor/widget/portfolio.php:145
+#: inc/elementor/widget/product-grid.php:149
+#: inc/elementor/widget/team.php:221
+#: inc/elementor/widget/testimonial.php:69
+msgid "Ascending"
+msgstr ""
+
+#: inc/elementor/widget/button.php:31
+msgid "enerzee_button"
+msgstr ""
+
+#: inc/elementor/widget/button.php:47
+msgid "Button"
+msgstr ""
+
+#: inc/elementor/widget/button.php:91
+#: inc/elementor/widget/section_title.php:45
+msgid "Section Title Post"
+msgstr ""
+
+#: inc/elementor/widget/button.php:164
+#: inc/elementor/widget/fancybox.php:236
+msgid "Button Color"
+msgstr ""
+
+#: inc/elementor/widget/button.php:176
+msgid "Button Test Color"
+msgstr ""
+
+#: inc/elementor/widget/button.php:188
+#: inc/elementor/widget/fancybox.php:284
+msgid "Button Hover Color"
+msgstr ""
+
+#: inc/elementor/widget/button.php:200
+msgid "Button Text Hover Color"
+msgstr ""
+
+#: inc/elementor/widget/client.php:31
+#: inc/elementor/widget/client.php:47
+msgid "Client"
+msgstr ""
+
+#: inc/elementor/widget/client.php:98
+msgid "Client Post"
+msgstr ""
+
+#: inc/elementor/widget/client.php:106
+msgid "Client Style"
+msgstr ""
+
+#: inc/elementor/widget/client.php:111
+msgid "Client Slider"
+msgstr ""
+
+#: inc/elementor/widget/client.php:112
+msgid "Client 1 Columns"
+msgstr ""
+
+#: inc/elementor/widget/client.php:113
+msgid "Client 2 Columns"
+msgstr ""
+
+#: inc/elementor/widget/client.php:114
+msgid "Client 3 Columns"
+msgstr ""
+
+#: inc/elementor/widget/contact.php:12
+msgid "enerzee_contact"
+msgstr ""
+
+#: inc/elementor/widget/contact.php:17
+msgid "Contact"
+msgstr ""
+
+#: inc/elementor/widget/contact.php:46
+msgid "enerzee_Contact"
+msgstr ""
+
+#: inc/elementor/widget/contact.php:59
+#: inc/elementor/widget/counter.php:59
+#: inc/elementor/widget/progressbar.php:61
+msgid "Add Your Title Text Here"
+msgstr ""
+
+#: inc/elementor/widget/contact.php:66
+msgid "Select Style"
+msgstr ""
+
+#: inc/elementor/widget/contact.php:71
+msgid "Image"
+msgstr ""
+
+#: inc/elementor/widget/contact.php:104
+msgid "Select Contact Type"
+msgstr ""
+
+#: inc/elementor/widget/contact.php:109
+msgid "Email"
+msgstr ""
+
+#: inc/elementor/widget/contact.php:110
+msgid "Phone"
+msgstr ""
+
+#: inc/elementor/widget/contact.php:111
+msgid "Address"
+msgstr ""
+
+#: inc/elementor/widget/contact.php:112
+msgid "Social Media"
+msgstr ""
+
+#: inc/elementor/widget/contact.php:149
+msgid "ContactBox Icon"
+msgstr ""
+
+#: inc/elementor/widget/contact.php:159
+msgid "Normal"
+msgstr ""
+
+#: inc/elementor/widget/contact.php:168
+msgid "Background"
+msgstr ""
+
+#: inc/elementor/widget/contact.php:179
+msgid "Hover"
+msgstr ""
+
+#: inc/elementor/widget/contact.php:188
+msgid "Hover Background"
+msgstr ""
+
+#: inc/elementor/widget/counter.php:12
+msgid "enerzee_counter"
+msgstr ""
+
+#: inc/elementor/widget/counter.php:17
+#: inc/elementor/widget/counter.php:46
+msgid "Counter"
+msgstr ""
+
+#: inc/elementor/widget/counter.php:75
+msgid "Counter Content"
+msgstr ""
+
+#: inc/elementor/widget/counter.php:80
+msgid "Enter Counter Figure Number"
+msgstr ""
+
+#: inc/elementor/widget/counter.php:150
+msgid "Counter Color"
+msgstr ""
+
+#: inc/elementor/widget/fancybox.php:12
+msgid "enerzee_fancybox"
+msgstr ""
+
+#: inc/elementor/widget/fancybox.php:17
+#: inc/elementor/widget/fancybox.php:45
+msgid "FancyBox"
+msgstr ""
+
+#: inc/elementor/widget/fancybox.php:111
+#: inc/elementor/widget/image_background_effect.php:89
+msgctxt "Background Control"
+msgid "Image"
+msgstr ""
+
+#: inc/elementor/widget/fancybox.php:150
+#: inc/elementor/widget/featurebox.php:157
+msgid "Shadow"
+msgstr ""
+
+#: inc/elementor/widget/fancybox.php:248
+msgid "Icon Hover Color"
+msgstr ""
+
+#: inc/elementor/widget/fancybox.php:260
+msgid "Title Hover Color"
+msgstr ""
+
+#: inc/elementor/widget/fancybox.php:272
+msgid "Description Hover Color"
+msgstr ""
+
+#: inc/elementor/widget/faq.php:12
+msgid "enerzee_faq"
+msgstr ""
+
+#: inc/elementor/widget/faq.php:17
+msgid "Faq"
+msgstr ""
+
+#: inc/elementor/widget/faq.php:59
+msgid "FAQ"
+msgstr ""
+
+#: inc/elementor/widget/faq.php:83
+msgid "Question"
+msgstr ""
+
+#: inc/elementor/widget/faq.php:85
+#: inc/elementor/widget/image_background_effect.php:55
+msgid "What is Lorem Ipsum?"
+msgstr ""
+
+#: inc/elementor/widget/faq.php:94
+msgid "Answer"
+msgstr ""
+
+#: inc/elementor/widget/faq.php:95
+#: inc/elementor/widget/image_background_effect.php:66
+msgid "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+msgstr ""
+
+#: inc/elementor/widget/faq.php:107
+#: inc/elementor/widget/fearute_circle.php:99
+#: inc/elementor/widget/image_background_effect.php:132
+#: inc/elementor/widget/tabs.php:121
+msgid "Tabs Items"
+msgstr ""
+
+#: inc/elementor/widget/faq.php:112
+msgid "icon"
+msgstr ""
+
+#: inc/elementor/widget/faq.php:113
+#: inc/elementor/widget/fearute_circle.php:105
+#: inc/elementor/widget/image_background_effect.php:137
+#: inc/elementor/widget/price.php:170
+#: inc/elementor/widget/tabs.php:126
+msgid "Tab #1"
+msgstr ""
+
+#: inc/elementor/widget/faq.php:114
+#: inc/elementor/widget/image_background_effect.php:138
+#: inc/elementor/widget/tabs.php:127
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+msgstr ""
+
+#: inc/elementor/widget/fearute_circle.php:12
+msgid "enerzee_Feature_Circle"
+msgstr ""
+
+#: inc/elementor/widget/fearute_circle.php:17
+msgid "Feature Circle"
+msgstr ""
+
+#: inc/elementor/widget/fearute_circle.php:45
+msgid "enerzee Feature Circle"
+msgstr ""
+
+#: inc/elementor/widget/fearute_circle.php:52
+msgid "Choose Logo"
+msgstr ""
+
+#: inc/elementor/widget/fearute_circle.php:77
+msgid "Number"
+msgstr ""
+
+#: inc/elementor/widget/fearute_circle.php:88
+#: inc/elementor/widget/list.php:73
+#: inc/elementor/widget/tabs.php:53
+msgid "Title & Description"
+msgstr ""
+
+#: inc/elementor/widget/fearute_circle.php:104
+msgid "3X"
+msgstr ""
+
+#: inc/elementor/widget/featurebox.php:11
+msgid "enerzee_featurebox"
+msgstr ""
+
+#: inc/elementor/widget/featurebox.php:16
+#: inc/elementor/widget/featurebox.php:44
+msgid "Featurebox"
+msgstr ""
+
+#: inc/elementor/widget/featurebox.php:51
+#: inc/elementor/widget/price.php:52
+msgid "FancyBox Style"
+msgstr ""
+
+#: inc/elementor/widget/featurebox.php:56
+#: inc/elementor/widget/image_overlay.php:56
+#: inc/elementor/widget/price.php:57
+msgid "Style 1"
+msgstr ""
+
+#: inc/elementor/widget/featurebox.php:57
+#: inc/elementor/widget/image_overlay.php:57
+#: inc/elementor/widget/price.php:58
+msgid "Style 2"
+msgstr ""
+
+#: inc/elementor/widget/featurebox.php:196
+msgid "Icon Border Color"
+msgstr ""
+
+#: inc/elementor/widget/featurebox.php:260
+msgid "Background Color"
+msgstr ""
+
+#: inc/elementor/widget/image_background_effect.php:12
+msgid "image_background_effect"
+msgstr ""
+
+#: inc/elementor/widget/image_background_effect.php:17
+msgid "Image Background Effect"
+msgstr ""
+
+#: inc/elementor/widget/image_background_effect.php:45
+#: inc/elementor/widget/tabs.php:17
+#: inc/elementor/widget/tabs.php:45
+msgid "Tabs"
+msgstr ""
+
+#: inc/elementor/widget/image_background_effect.php:53
+msgid "title"
+msgstr ""
+
+#: inc/elementor/widget/image_background_effect.php:139
+#: inc/elementor/widget/tabs.php:128
+msgid "fas fa-star"
+msgstr ""
+
+#: inc/elementor/widget/image_background_effect.php:177
+msgid "Hover Color"
+msgstr ""
+
+#: inc/elementor/widget/image_overlay.php:12
+msgid "image_overlay"
+msgstr ""
+
+#: inc/elementor/widget/image_overlay.php:17
+#: inc/elementor/widget/image_overlay.php:44
+msgid "Image Overlay"
+msgstr ""
+
+#: inc/elementor/widget/image_overlay.php:52
+msgid "Overlay Style"
+msgstr ""
+
+#: inc/elementor/widget/image_overlay.php:121
+msgid "Image Position Horizontal"
+msgstr ""
+
+#: inc/elementor/widget/image_overlay.php:144
+msgid "Image Position Vertical"
+msgstr ""
+
+#: inc/elementor/widget/image_overlay.php:150
+msgid "Top"
+msgstr ""
+
+#: inc/elementor/widget/image_overlay.php:154
+msgid "Bottom"
+msgstr ""
+
+#: inc/elementor/widget/list.php:12
+msgid "enerzee_lists"
+msgstr ""
+
+#: inc/elementor/widget/list.php:18
+#: inc/elementor/widget/list.php:46
+msgid "Lists"
+msgstr ""
+
+#: inc/elementor/widget/list.php:53
+msgid "List Style"
+msgstr ""
+
+#: inc/elementor/widget/list.php:58
+msgid "1 column"
+msgstr ""
+
+#: inc/elementor/widget/list.php:59
+msgid "2 column"
+msgstr ""
+
+#: inc/elementor/widget/list.php:60
+msgid "3 column"
+msgstr ""
+
+#: inc/elementor/widget/list.php:61
+msgid "4 column"
+msgstr ""
+
+#: inc/elementor/widget/list.php:106
+msgid "Lists Items"
+msgstr ""
+
+#: inc/elementor/widget/list.php:111
+#: inc/elementor/widget/price.php:165
+#: inc/elementor/widget/progressbar.php:99
+msgid "List Items"
+msgstr ""
+
+#: inc/elementor/widget/portfolio.php:12
+msgid "portfolio"
+msgstr ""
+
+#: inc/elementor/widget/portfolio.php:17
+#: index.php:72
+#: index.php:73
+#: index.php:78
+#: index.php:79
+msgid "Portfolio"
+msgstr ""
+
+#: inc/elementor/widget/portfolio.php:50
+msgid "Portfolio Post"
+msgstr ""
+
+#: inc/elementor/widget/portfolio.php:57
+msgid "Portfolio Style"
+msgstr ""
+
+#: inc/elementor/widget/portfolio.php:60
+msgid "Portfolio 2 Columns"
+msgstr ""
+
+#: inc/elementor/widget/portfolio.php:61
+msgid "Portfolio 3 Columns"
+msgstr ""
+
+#: inc/elementor/widget/portfolio.php:62
+msgid "Portfolio 4 Columns"
+msgstr ""
+
+#: inc/elementor/widget/portfolio.php:63
+msgid "Portfolio 5 Columns"
+msgstr ""
+
+#: inc/elementor/widget/portfolio.php:72
+msgid "Number Of Portfolio"
+msgstr ""
+
+#: inc/elementor/widget/portfolio.php:104
+msgid "Disable Tab"
+msgstr ""
+
+#: inc/elementor/widget/portfolio.php:116
+msgid "Space"
+msgstr ""
+
+#: inc/elementor/widget/portfolio.php:133
+msgid "+"
+msgstr ""
+
+#: inc/elementor/widget/price.php:12
+msgid "enerzee_price"
+msgstr ""
+
+#: inc/elementor/widget/price.php:17
+#: inc/elementor/widget/price.php:45
+msgid "Pricing Plan"
+msgstr ""
+
+#: inc/elementor/widget/price.php:59
+msgid "Style 3"
+msgstr ""
+
+#: inc/elementor/widget/price.php:74
+msgid "Your Title Here"
+msgstr ""
+
+#: inc/elementor/widget/price.php:89
+msgid "Your Sub Title Here"
+msgstr ""
+
+#: inc/elementor/widget/price.php:96
+msgctxt "Background Control"
+msgid "Background Image"
+msgstr ""
+
+#: inc/elementor/widget/price.php:117
+msgid "Add Your Description Text Here"
+msgstr ""
+
+#: inc/elementor/widget/price.php:138
+msgid "Plan info List"
+msgstr ""
+
+#: inc/elementor/widget/price.php:140
+#: inc/elementor/widget/price.php:141
+msgid "List Item"
+msgstr ""
+
+#: inc/elementor/widget/price.php:149
+msgid "Enable/disable"
+msgstr ""
+
+#: inc/elementor/widget/price.php:151
+#: inc/elementor/widget/price.php:171
+#: inc/elementor/widget/product-grid.php:171
+#: inc/elementor/widget/product-grid.php:183
+#: inc/elementor/widget/product-grid.php:194
+msgid "Show"
+msgstr ""
+
+#: inc/elementor/widget/price.php:152
+#: inc/elementor/widget/product-grid.php:172
+#: inc/elementor/widget/product-grid.php:184
+#: inc/elementor/widget/product-grid.php:195
+msgid "Hide"
+msgstr ""
+
+#: inc/elementor/widget/product-grid.php:31
+msgid "Woo_Product_Grid"
+msgstr ""
+
+#: inc/elementor/widget/product-grid.php:47
+msgid "WooCommerce Product Grid"
+msgstr ""
+
+#: inc/elementor/widget/product-grid.php:98
+msgid "Product Grid"
+msgstr ""
+
+#: inc/elementor/widget/product-grid.php:106
+msgid "Select Product"
+msgstr ""
+
+#: inc/elementor/widget/product-grid.php:111
+msgid "Feature Product"
+msgstr ""
+
+#: inc/elementor/widget/product-grid.php:112
+msgid "Recent Product"
+msgstr ""
+
+#: inc/elementor/widget/product-grid.php:113
+msgid "Sale Product"
+msgstr ""
+
+#: inc/elementor/widget/product-grid.php:114
+msgid "Best Selling Product"
+msgstr ""
+
+#: inc/elementor/widget/product-grid.php:115
+msgid "Top Rated Product"
+msgstr ""
+
+#: inc/elementor/widget/product-grid.php:116
+msgid "All Products"
+msgstr ""
+
+#: inc/elementor/widget/product-grid.php:124
+msgid "Column"
+msgstr ""
+
+#: inc/elementor/widget/product-grid.php:128
+msgid "1 Columns"
+msgstr ""
+
+#: inc/elementor/widget/product-grid.php:129
+msgid "2 Columns"
+msgstr ""
+
+#: inc/elementor/widget/product-grid.php:130
+msgid "3 Columns"
+msgstr ""
+
+#: inc/elementor/widget/product-grid.php:131
+msgid "4 Columns"
+msgstr ""
+
+#: inc/elementor/widget/product-grid.php:132
+msgid "5 Columns"
+msgstr ""
+
+#: inc/elementor/widget/product-grid.php:133
+msgid "6 Columns"
+msgstr ""
+
+#: inc/elementor/widget/product-grid.php:158
+msgid "Per Page"
+msgstr ""
+
+#: inc/elementor/widget/product-grid.php:169
+msgid "Show Pagination"
+msgstr ""
+
+#: inc/elementor/widget/product-grid.php:181
+msgid "Show Catalog ordering"
+msgstr ""
+
+#: inc/elementor/widget/product-grid.php:192
+msgid "Show Result Count"
+msgstr ""
+
+#: inc/elementor/widget/product-grid.php:211
+msgid "Display Product From Specific Category"
+msgstr ""
+
+#: inc/elementor/widget/progressbar.php:12
+msgid "enerzee_progressbar"
+msgstr ""
+
+#: inc/elementor/widget/progressbar.php:17
+#: inc/elementor/widget/progressbar.php:47
+msgid "Progressbar"
+msgstr ""
+
+#: inc/elementor/widget/progressbar.php:68
+msgid "Score out of 100"
+msgstr ""
+
+#: inc/elementor/widget/progressbar.php:94
+msgid "Add Progress Bar"
+msgstr ""
+
+#: inc/elementor/widget/progressbar.php:100
+msgid "50"
+msgstr ""
+
+#: inc/elementor/widget/section_title.php:12
+msgid "section_title"
+msgstr ""
+
+#: inc/elementor/widget/section_title.php:137
+msgid "Sub Title Color"
+msgstr ""
+
+#: inc/elementor/widget/svg_animation.php:12
+msgid "svg_animation"
+msgstr ""
+
+#: inc/elementor/widget/svg_animation.php:17
+#: inc/elementor/widget/svg_animation.php:44
+msgid "Svg Animation"
+msgstr ""
+
+#: inc/elementor/widget/svg_animation.php:51
+msgid "Choose Json"
+msgstr ""
+
+#: inc/elementor/widget/tabs.php:12
+msgid "enerzee_Tabs"
+msgstr ""
+
+#: inc/elementor/widget/tabs.php:109
+msgid "Content"
+msgstr ""
+
+#: inc/elementor/widget/team.php:12
+msgid "team"
+msgstr ""
+
+#: inc/elementor/widget/team.php:17
+msgid "Team"
+msgstr ""
+
+#: inc/elementor/widget/team.php:49
+msgid "Team Post"
+msgstr ""
+
+#: inc/elementor/widget/team.php:56
+msgid "Team Style"
+msgstr ""
+
+#: inc/elementor/widget/team.php:60
+msgid "None"
+msgstr ""
+
+#: inc/elementor/widget/team.php:61
+msgid "Team Slider"
+msgstr ""
+
+#: inc/elementor/widget/team.php:62
+msgid "Team 1 Columns"
+msgstr ""
+
+#: inc/elementor/widget/team.php:63
+msgid "Team 2 Columns"
+msgstr ""
+
+#: inc/elementor/widget/team.php:64
+msgid "Team 3 Columns"
+msgstr ""
+
+#: inc/elementor/widget/testimonial.php:8
+msgid "testimonial"
+msgstr ""
+
+#: inc/elementor/widget/testimonial.php:12
+#: index.php:142
+#: index.php:143
+#: index.php:148
+#: index.php:149
+msgid "Testimonial"
+msgstr ""
+
+#: inc/elementor/widget/testimonial.php:40
+msgid "Testimonial Post"
+msgstr ""
+
+#: inc/elementor/widget/testimonial.php:47
+msgid "Testimonial Style"
+msgstr ""
+
+#: inc/elementor/widget/testimonial.php:52
+msgid "Testimonial Slider"
+msgstr ""
+
+#: inc/elementor/widget/testimonial.php:53
+msgid "Testimonial Gride 1 Columns"
+msgstr ""
+
+#: inc/elementor/widget/testimonial.php:54
+msgid "Testimonial Gride 2 Columns"
+msgstr ""
+
+#: inc/elementor/widget/testimonial.php:55
+msgid "Testimonial Gride 3 Columns"
+msgstr ""
+
+#: inc/elementor/widget/video_popup.php:12
+msgid "popup_video"
+msgstr ""
+
+#: inc/elementor/widget/video_popup.php:17
+#: inc/elementor/widget/video_popup.php:45
+msgid "Popup Video"
+msgstr ""
+
+#: inc/elementor/widget/video_popup.php:52
+msgid "Source"
+msgstr ""
+
+#: inc/elementor/widget/video_popup.php:57
+msgid "Self Hosted"
+msgstr ""
+
+#: inc/elementor/widget/video_popup.php:65
+msgid "Choose File"
+msgstr ""
+
+#: inc/elementor/widget/video_popup.php:80
+msgid "Enter your URL"
+msgstr ""
+
+#: inc/elementor/widget/video_popup.php:92
+msgid "Play Icon"
+msgstr ""
+
+#: inc/elementor/widget/video_popup.php:110
+msgid "Poster Image"
+msgstr ""
+
+#: index.php:28
+#: index.php:29
+#: index.php:35
+msgid "Team Member"
+msgstr ""
+
+#: index.php:30
+msgid "Team Member Photo"
+msgstr ""
+
+#: index.php:31
+msgid "Set Team Member Photo"
+msgstr ""
+
+#: index.php:32
+msgid "Remove Team Member Photo"
+msgstr ""
+
+#: index.php:33
+msgid "Use as Team Member Photo"
+msgstr ""
+
+#: index.php:37
+msgid "Add New Team Member"
+msgstr ""
+
+#: index.php:38
+msgid "New Team Member"
+msgstr ""
+
+#: index.php:39
+msgid "Edit Team Member"
+msgstr ""
+
+#: index.php:40
+msgid "View Team Member"
+msgstr ""
+
+#: index.php:41
+msgid "All Team Members"
+msgstr ""
+
+#: index.php:42
+msgid "Search Team Member"
+msgstr ""
+
+#: index.php:43
+msgid "Parent Team Member:"
+msgstr ""
+
+#: index.php:44
+#: index.php:88
+#: index.php:202
+msgid "No Classs found."
+msgstr ""
+
+#: index.php:45
+#: index.php:89
+#: index.php:203
+msgid "No Classs found in Trash."
+msgstr ""
+
+#: index.php:74
+msgid "Portfolio Photo"
+msgstr ""
+
+#: index.php:75
+msgid "Set Portfolio Photo"
+msgstr ""
+
+#: index.php:76
+msgid "Remove Portfolio Photo"
+msgstr ""
+
+#: index.php:77
+msgid "Use as Portfolio Photo"
+msgstr ""
+
+#: index.php:81
+msgid "Add New Portfolio"
+msgstr ""
+
+#: index.php:82
+msgid "New Portfolio"
+msgstr ""
+
+#: index.php:83
+msgid "Edit Portfolio"
+msgstr ""
+
+#: index.php:84
+msgid "View Portfolio"
+msgstr ""
+
+#: index.php:85
+msgid "All Portfolio"
+msgstr ""
+
+#: index.php:86
+msgid "Search Portfolio"
+msgstr ""
+
+#: index.php:87
+msgid "Parent Portfolio :"
+msgstr ""
+
+#: index.php:122
+msgid "Portfolio Category"
+msgstr ""
+
+#: index.php:144
+msgid "Photo"
+msgstr ""
+
+#: index.php:145
+msgid "Set Photo"
+msgstr ""
+
+#: index.php:146
+msgid "Remove Photo"
+msgstr ""
+
+#: index.php:147
+msgid "Use as Photo"
+msgstr ""
+
+#: index.php:150
+#: index.php:194
+msgid "Add New"
+msgstr ""
+
+#: index.php:151
+msgid "Add New Testimonial"
+msgstr ""
+
+#: index.php:152
+msgid "New Testimonial"
+msgstr ""
+
+#: index.php:153
+msgid "Edit Testimonial"
+msgstr ""
+
+#: index.php:154
+msgid "View Testimonial"
+msgstr ""
+
+#: index.php:155
+msgid "All Testimonial"
+msgstr ""
+
+#: index.php:156
+msgid "Search Testimonial"
+msgstr ""
+
+#: index.php:157
+msgid "Parent Testimonial:"
+msgstr ""
+
+#: index.php:158
+msgid "No Testimonial found."
+msgstr ""
+
+#: index.php:159
+msgid "No Testimonial found in Trash."
+msgstr ""
+
+#: index.php:186
+#: index.php:187
+#: index.php:193
+msgid "Client Member"
+msgstr ""
+
+#: index.php:188
+msgid "Client Member Photo"
+msgstr ""
+
+#: index.php:189
+msgid "Set Client Member Photo"
+msgstr ""
+
+#: index.php:190
+msgid "Remove Client Member Photo"
+msgstr ""
+
+#: index.php:191
+msgid "Use as Client Member Photo"
+msgstr ""
+
+#: index.php:192
+msgid "Our Client"
+msgstr ""
+
+#: index.php:195
+msgid "Add New Client Member"
+msgstr ""
+
+#: index.php:196
+msgid "New Client Member"
+msgstr ""
+
+#: index.php:197
+msgid "Edit Client Member"
+msgstr ""
+
+#: index.php:198
+msgid "View Client Member"
+msgstr ""
+
+#: index.php:199
+msgid "All Client Members"
+msgstr ""
+
+#: index.php:200
+msgid "Search Client Member"
+msgstr ""
+
+#: index.php:201
+msgid "Parent Client Member:"
+msgstr ""
+
+#: widget/footer-contact.php:110
+#: widget/recent-post.php:144
+#: widget/social_media.php:76
+#: widget/subscribe.php:88
+msgid "Title:"
+msgstr ""
+
+#: widget/footer-contact.php:115
+msgid "Display Phone Number?"
+msgstr ""
+
+#: widget/footer-contact.php:119
+msgid "Display Email?"
+msgstr ""
+
+#: widget/footer-contact.php:123
+msgid "Display Address?"
+msgstr ""
+
+#: widget/recent-post.php:170
+msgid "Number of posts to show:"
+msgstr ""
+
+#: widget/recent-post.php:175
+msgid "Display post Date?"
+msgstr ""
