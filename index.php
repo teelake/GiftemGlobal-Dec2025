@@ -684,22 +684,22 @@ $slidingImages = $dashboard->getSlidingImages();
                 
                 <?php 
 // Load WordPress if the file is outside WordPress structure
-$base_url = "/";
-define('WP_USE_THEMES', false); 
-require('blog/wp-load.php'); // Make sure to replace with the actual path
+// $base_url = "/";
+// define('WP_USE_THEMES', false); 
+// require('blog/wp-load.php'); // Make sure to replace with the actual path
 
-// Query to get the 3 most recent posts
-$args = array(
-    'posts_per_page' => 3, // Limit to 3 posts
-    'post_status' => 'publish', // Only published posts
-);
-$recent_posts = new WP_Query($args);
+// // Query to get the 3 most recent posts
+// $args = array(
+//     'posts_per_page' => 3, // Limit to 3 posts
+//     'post_status' => 'publish', // Only published posts
+// );
+// $recent_posts = new WP_Query($args);
 
-// Check if there are posts
-if($recent_posts->have_posts()) : 
-    while($recent_posts->have_posts()) : $recent_posts->the_post(); 
+// // Check if there are posts
+// if($recent_posts->have_posts()) : 
+//     while($recent_posts->have_posts()) : $recent_posts->the_post(); 
 ?>
-    <div class="col-lg-12">
+    <!-- <div class="col-lg-12">
         <div class="ltn__blog-item ltn__blog-item-3">
             <div class="ltn__blog-img">
                 <a href="<?php the_permalink(); ?>"><?php the_post_thumbnail('large'); ?></a>
@@ -728,13 +728,13 @@ if($recent_posts->have_posts()) :
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 <?php 
-    endwhile;
-    wp_reset_postdata();
-else :
-    echo '<p>No recent posts found.</p>';
-endif;
+    // endwhile;
+    // wp_reset_postdata();
+// else :
+//     echo '<p>No recent posts found.</p>';
+// endif;
 ?>
 
                 <!--  -->
