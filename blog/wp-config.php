@@ -22,10 +22,10 @@ define('WP_CACHE', true); // Added by SpeedyCache
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'giftemgl_wp497' );
+define( 'DB_NAME', 'giftemg1_wp37' );
 
 /** Database username */
-define( 'DB_USER', 'giftemgl_wp497' );
+define( 'DB_USER', 'giftemg1_w37' );
 
 /** Database password */
 define( 'DB_PASSWORD', '16.1]8pINS' );
